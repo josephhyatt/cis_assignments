@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/r6_4.dir/main.cpp.o  -o r6_4 

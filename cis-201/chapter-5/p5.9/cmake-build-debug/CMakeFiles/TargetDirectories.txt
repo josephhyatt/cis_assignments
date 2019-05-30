@@ -1,0 +1,3 @@
+/home/jedi/code/vvc-assignments/cis-201/chapter-5/p5.9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jedi/code/vvc-assignments/cis-201/chapter-5/p5.9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jedi/code/vvc-assignments/cis-201/chapter-5/p5.9/cmake-build-debug/CMakeFiles/p5_9.dir

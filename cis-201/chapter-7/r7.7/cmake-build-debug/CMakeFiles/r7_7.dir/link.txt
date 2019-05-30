@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/r7_7.dir/main.cpp.o  -o r7_7 

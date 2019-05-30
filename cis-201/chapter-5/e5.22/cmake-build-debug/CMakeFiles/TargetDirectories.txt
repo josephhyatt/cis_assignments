@@ -1,0 +1,3 @@
+/home/jedi/code/vvc-assignments/cis-201/chapter-5/e5.22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jedi/code/vvc-assignments/cis-201/chapter-5/e5.22/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jedi/code/vvc-assignments/cis-201/chapter-5/e5.22/cmake-build-debug/CMakeFiles/e5_22.dir
