@@ -1,0 +1,1 @@
+I'm a college student working towards a Bachelor's in Computer Science. I'm currently working with C++, and upload my past assignments to github once it's complete and has received feedback from my professor. I also plan on writing a Blog about my progression, stay tuned.
